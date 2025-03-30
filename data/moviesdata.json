@@ -1,0 +1,203 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Interstellar",
+            "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "movie_year": 2014,
+            "director": "Christopher Nolan",
+            "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Michael Caine", "Casey Affleck"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "price": "120.00"
+        },
+        {
+            "id": 2,
+            "title": "Inception",
+            "description": "A thief who enters people's dreams to steal secrets must pull off the ultimate heist.",
+            "movie_year": 2010,
+            "director": "Christopher Nolan",
+            "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page", "Tom Hardy"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+            "price": "100.00"
+        },
+        {
+            "id": 3,
+            "title": "The Dark Knight",
+            "description": "Batman battles the Joker, who seeks to create chaos in Gotham.",
+            "movie_year": 2008,
+            "director": "Christopher Nolan",
+            "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "price": "110.00"
+        },
+        {
+            "id": 4,
+            "title": "The Shawshank Redemption",
+            "description": "Two imprisoned men bond over years, finding solace and redemption.",
+            "movie_year": 1994,
+            "director": "Frank Darabont",
+            "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+            "price": "95.00"
+        },
+        {
+            "id": 5,
+            "title": "Pulp Fiction",
+            "description": "The lives of criminals intertwine in four tales of violence and redemption.",
+            "movie_year": 1994,
+            "director": "Quentin Tarantino",
+            "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+            "price": "90.00"
+        },
+        {
+            "id": 6,
+            "title": "The Godfather",
+            "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+            "movie_year": 1972,
+            "director": "Francis Ford Coppola",
+            "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "price": "100.00"
+        },
+        {
+            "id": 7,
+            "title": "Forrest Gump",
+            "description": "The story of a man with a low IQ who inadvertently influences major events.",
+            "movie_year": 1994,
+            "director": "Robert Zemeckis",
+            "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+            "price": "105.00"
+        },
+        {
+            "id": 8,
+            "title": "The Matrix",
+            "description": "A computer hacker learns the truth about his reality and fights back.",
+            "movie_year": 1999,
+            "director": "Lana Wachowski, Lilly Wachowski",
+            "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "price": "95.00"
+        },
+        {
+            "id": 9,
+            "title": "Fight Club",
+            "description": "An insomniac office worker forms an underground fight club.",
+            "movie_year": 1999,
+            "director": "David Fincher",
+            "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+            "price": "100.00"
+        },
+        {
+            "id": 10,
+            "title": "The Lord of the Rings: The Return of the King",
+            "description": "Gandalf and Aragorn lead the fight against Sauron’s army.",
+            "movie_year": 2003,
+            "director": "Peter Jackson",
+            "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+            "price": "115.00"
+        },   {
+            "id": 11,
+            "title": "Gladiator",
+            "description": "A former Roman General seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+            "movie_year": 2000,
+            "director": "Ridley Scott",
+            "actors": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "price": "105.00"
+        },
+        {
+            "id": 12,
+            "title": "Titanic",
+            "description": "A love story unfolds on the ill-fated ship, Titanic.",
+            "movie_year": 1997,
+            "director": "James Cameron",
+            "actors": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kHXEpyfl6zqn8a6YuozZUujufXf.jpg",
+            "price": "100.00"
+        },
+        {
+            "id": 13,
+            "title": "The Avengers",
+            "description": "Earth's mightiest heroes must come together to stop Loki from enslaving humanity.",
+            "movie_year": 2012,
+            "director": "Joss Whedon",
+            "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "price": "115.00"
+        },
+        {
+            "id": 14,
+            "title": "Avatar",
+            "description": "A paraplegic Marine dispatched to the moon Pandora finds himself torn between following orders and protecting the world he feels is his home.",
+            "movie_year": 2009,
+            "director": "James Cameron",
+            "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+            "price": "120.00"
+        },
+        {
+            "id": 15,
+            "title": "Joker",
+            "description": "A mentally troubled comedian embarks on a downward spiral leading to the birth of the Joker.",
+            "movie_year": 2019,
+            "director": "Todd Phillips",
+            "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "price": "110.00"
+        },
+        {
+            "id": 16,
+            "title": "Deadpool",
+            "description": "A wisecracking mercenary with accelerated healing powers seeks revenge on the man who experimented on him.",
+            "movie_year": 2016,
+            "director": "Tim Miller",
+            "actors": ["Ryan Reynolds", "Morena Baccarin", "Ed Skrein"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+            "price": "105.00"
+        },
+        {
+            "id": 17,
+            "title": "The Wolf of Wall Street",
+            "description": "A New York stockbroker refuses to cooperate in a fraud case.",
+            "movie_year": 2013,
+            "director": "Martin Scorsese",
+            "actors": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sOxr33wnRuKazR9ClHek73T8qnK.jpg",
+            "price": "115.00"
+        },
+        {
+            "id": 18,
+            "title": "The Lion King",
+            "description": "A young lion prince flees his kingdom after the murder of his father, only to learn the true meaning of responsibility.",
+            "movie_year": 1994,
+            "director": "Roger Allers, Rob Minkoff",
+            "actors": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+            "price": "95.00"
+        },
+        {
+            "id": 19,
+            "title": "Schindler's List",
+            "description": "In German-occupied Poland, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution.",
+            "movie_year": 1993,
+            "director": "Steven Spielberg",
+            "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "price": "100.00"
+        },
+        {
+            "id": 20,
+            "title": "Back to the Future",
+            "description": "Marty McFly travels back in time in a DeLorean to change his parents' fate.",
+            "movie_year": 1985,
+            "director": "Robert Zemeckis",
+            "actors": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson"],
+            "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+            "price": "95.00"
+        }
+    ]
+}
